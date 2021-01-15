@@ -1,0 +1,13 @@
+data/Sniffs/Commenting/FileCommentSniff.php.i
+data/Sniffs/Classes/ValidMethodNameSniff.php.i
+data/Sniffs/Classes/ClassDeclaration.php.i
+data/Sniffs/Commenting/FunctionCommentSniff.php.i
+data/Sniffs/Classes/ClassDeclarationSniff.php.i
+data/Sniffs/Commenting/InlineCommentSniff.php.i
+data/add-hook.sh.i
+data/remove-hook.sh.i
+data/Sniffs/Classes/ValidClassNameSniff.php.i
+data/pre-commit.i
+data/ruleset.xml.i
+data/README.md.i
+data/Sniffs/Strings/DoubleQuoteUsageSniff.php.i
